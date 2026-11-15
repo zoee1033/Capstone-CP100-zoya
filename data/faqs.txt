@@ -1,0 +1,9 @@
+
+1|What are the college timings?|College timings are 9 AM to 4 PM.|timings,college,time|General
+2|How can I apply for leave?|Submit a leave application to your department.|leave,application,absence|Academics
+3|Where is the library?|The library is located in the main academic block.|library,books,location|Facilities
+4|How can I pay college fees?|Fees can be paid through the college fee portal.|fees,payment,pay|Finance
+5|How do I get my ID card?|Contact the administrative office for your ID card.|id,card,identity|Administration
+6|When are exams conducted?|Exam schedules are announced by the examination department.|exam,exams,examination|Academics
+7|How do I contact my HOD?|Contact your department office for HOD details.|hod,department,head|Administration
+8|Where can I get my timetable?|Check the student portal for your timetable.|timetable,schedule,class|Academics
